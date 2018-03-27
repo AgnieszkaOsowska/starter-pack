@@ -4,11 +4,11 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StudentDawid/narzedziaFED.git"
+    "url": "git+https://github.com/AgnieszkaOsowska/starter-pack.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/StudentDawid/narzedziaFED#readme",
+  "homepage": "https://github.com/AgnieszkaOsowska/starter-pack#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",

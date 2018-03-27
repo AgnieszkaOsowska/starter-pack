@@ -1,3 +1,3 @@
-Uruchomienie:
-npm install
-gulp default
+Uruchomienie:<br/>
+npm install<br/>
+gulp default<br/>
